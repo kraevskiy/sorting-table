@@ -27,7 +27,7 @@ Function for sorting table
 sortTable({option});
 ```
 
-#####options:
+#### options:
 ```javascript
 {
     selector: '.sortTable', // *required
