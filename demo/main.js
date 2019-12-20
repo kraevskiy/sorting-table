@@ -10,7 +10,7 @@ xhr.onload = () => renderTable(xhr.response.slice(0,200));
 // added simple markup
 function renderTable(data){
     let table = `
-        <button class="clearSort">Clear</button>
+        <button class="clearSort btn btn-lg btn-primary mb-1">Clear</button>
         <table class="sortTable table-bordered table">
             <thead class="thead-dark">
                 <tr>

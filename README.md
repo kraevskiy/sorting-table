@@ -1,6 +1,7 @@
 # Function sortTable(){};
 Function for sorting table 
 
+[DEMO](https://kraevskiy.github.io/sorting-table/demo/)
 #### Basic markup HTML
 ```html
 <table>
